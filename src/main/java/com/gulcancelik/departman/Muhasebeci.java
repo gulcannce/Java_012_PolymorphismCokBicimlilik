@@ -1,6 +1,6 @@
 package com.gulcancelik.departman;
 
-import com.mimaraslan.base.Personel;
+import com.gulcancelik.base.Personel;
 import lombok.*;
 
 @Setter
