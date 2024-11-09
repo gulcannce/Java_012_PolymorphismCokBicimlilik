@@ -1,7 +1,7 @@
 package com.gulcancelik;
 
-import gulcancelik.departman.Mudur;
-import gulcancelik.departman.Muhasebeci;
+import com.gulcancelik.departman.Mudur;
+import com.gulcancelik.departman.Muhasebeci;
 
 public class AppMain {
 
